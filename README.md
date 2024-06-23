@@ -8,5 +8,5 @@
 ### 安装
 
 ```bash
-git clone https://gitee.com/your_username/your_repository.git
-cd your_repository
+git clone githttps://github.com/1607368492/git-text.git
+cd git-text.git
